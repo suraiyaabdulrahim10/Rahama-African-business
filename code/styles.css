@@ -1,0 +1,18 @@
+body{
+    color:white;
+    background-color: black;
+    /* background-image: url("rahama.jpg"); */
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS';
+}
+
+a{
+    /* color: grey; */
+}
+
+span {
+    text-transform: uppercase;
+}
